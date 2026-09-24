@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,phone,country_code,city,registration_date,customer_status,updated_at
+C0001,Ana,Torres,ana.torres@email.com,+593991111111,EC,Quito,2025-01-15,ACTIVE,2026-09-20 10:15:00
+C0002,Luis,Perez,luis.perez@email.com,+593992222222,EC,Guayaquil,2025-02-10,ACTIVE,2026-09-20 11:30:00
+C0003,Maria,Lopez,maria.lopez@email.com,+593993333333,EC,Cuenca,2025-03-05,ACTIVE,2026-09-20 12:45:00
+C0004,Carlos,Ruiz,carlos.ruiz@email.com,+593994444444,EC,Quito,2025-04-18,INACTIVE,2026-09-20 13:20:00
+C0005,Sofia,Vega,sofia.vega@email.com,+593995555555,EC,Loja,2025-05-22,ACTIVE,2026-09-20 14:10:00
+C0006,Diego,Mora,diego.mora@email.com,+593996666666,EC,Ambato,2025-06-30,ACTIVE,2026-09-20 15:05:00
+C0007,Valentina,Castro,valentina.castro@email.com,+593997777777,EC,Manta,2025-07-14,ACTIVE,2026-09-20 16:40:00
+C0008,Andres,Ortiz,andres.ortiz@email.com,+593998888888,EC,Quito,2025-08-01,ACTIVE,2026-09-20 17:25:00
+C0009,Camila,Herrera,,+593999999999,EC,Guayaquil,2025-08-19,ACTIVE,2026-09-20 18:00:00
+C0010,Mateo,Ramos,mateo.ramos@@email.com,+593990000001,EC,Quito,2025-09-12,ACTIVE,2026-09-20 18:30:00
+C0011,Daniela,Salazar,daniela.salazar@email.com,+593990000002,XX,Cuenca,2025-10-03,ACTIVE,2026-09-20 19:00:00
+C0012,,Mendoza,paula.mendoza@email.com,+593990000003,EC,Quito,2025-10-20,ACTIVE,2026-09-20 19:30:00
+C0013,Javier,Cedeño,javier.cedeno@email.com,+593990000004,EC,Manta,2025-11-11,BLOCKED,2026-09-20 20:00:00
+C0014,Lucia,Romero,lucia.romero@email.com,+593990000005,EC,Quito,2027-01-15,ACTIVE,2026-09-20 20:30:00
+C0005,Sofia,Vega,sofia.vega@email.com,+593995555555,EC,Loja,2025-05-22,ACTIVE,2026-09-20 14:10:00
